@@ -1,0 +1,2 @@
+Presupunand ca fiecare lume specifica cartea fiecarui jucator, sunt 20 de lumi posibile.Intrucat primul jucator alege o carte din 5, celui de al doilea ii raman 4 carti disponibile samd.
+Astfel incat pachetul este bine amestecat, rezulta ca fiecarei lumi ii revine o probabiliate de 1/20.

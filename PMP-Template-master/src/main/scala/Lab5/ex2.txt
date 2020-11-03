@@ -1,0 +1,4 @@
+2.Cand observam ca primul jucator are Popa sau Dama, rezulta faptul lumea in care jucatorul are A, nu trebuie luata in considerare.
+Ramanand 16 lumi posibile.In 10 din ele al doilea are A, deci probabilitatea ca primul jucator sa aiba picture card(K/Q) este de 10/1.
+
+exercitiul 4 se ala in Ex1.scala
